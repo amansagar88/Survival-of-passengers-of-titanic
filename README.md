@@ -1,6 +1,7 @@
 # 🚢 Titanic - Machine Learning from Disaster 🧠
 
 Welcome to this comprehensive notebook that tackles the classic **Titanic survival prediction** problem from [Kaggle's Titanic competition](https://www.kaggle.com/c/titanic). This project covers the end-to-end data science workflow: from data exploration to model evaluation.
+[View Notebook Here](https://github.com/amansagar88/Survival-of-passengers-of-titanic/blob/main/titanic-competition-eda-and-prediction.ipynb)
 
 ---
 
